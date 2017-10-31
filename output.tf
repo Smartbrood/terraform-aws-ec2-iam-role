@@ -8,7 +8,7 @@ output "unique_id" {
   value       = "${aws_iam_role.this.unique_id}"
 }
 
-output "name" {
+output "profile_name" {
   description = "The Instance profile Name"
   value       = "${aws_iam_instance_profile.this.name}"
 }
