@@ -23,7 +23,7 @@ module "ec2-iam-role" {
 Authors
 -------
 
-Module managed by [Smartbrood LLC](https://github.com/Smartbrood). Credit to [tkskwn](https://github.com/tkskwn).
+Module managed by [Smartbrood LLC](https://github.com/Smartbrood).
 
 
 License
